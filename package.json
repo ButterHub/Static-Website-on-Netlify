@@ -1,0 +1,11 @@
+{
+  "name": "butterworth-tech",
+  "version": "1.0.0",
+  "description": "Static landing page for Butterworth.tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Butterworth",
+  "license": "ISC"
+}
